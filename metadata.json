@@ -1,0 +1,6 @@
+{
+  "name": "Shree Interior Designer",
+  "description": "High-end, interactive, and immersive 3D landing page for Shree Interior Designer in Kharghar, Navi Mumbai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
